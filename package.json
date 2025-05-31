@@ -1,0 +1,26 @@
+{
+  "name": "darkbox",
+  "displayName": "Darkbox",
+  "description": "Darkbox theme",
+  "version": "0.0.1",
+  "publisher": "dinam",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darkbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkbox-color-theme.json"
+      }
+    ]
+  }
+}

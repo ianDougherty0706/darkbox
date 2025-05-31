@@ -8,6 +8,14 @@
     "type": "git",
     "url": ""
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "darkbox",
+    "dark",
+    "dark box",
+    "dinam"
+  ],
   "engines": {
     "vscode": "^1.100.0"
   },
